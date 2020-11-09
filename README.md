@@ -1,4 +1,4 @@
-# mod1_final_proj
+# Breaking into Movie Market 2020
 ## Summary
 In order to assess the movie making market, data were scraped from IMDB, Box Office Mojo, and www.the-numbers.com for the most up-to-date information. This repository contains the scripts to scrape the data and as well as the Jupyter Notebook that analyzes the data.
 
