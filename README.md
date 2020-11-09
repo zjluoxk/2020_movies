@@ -9,6 +9,7 @@ After analyzing the data from the various resources, the following conclusions a
 4. Animation, Adventure, and Sci-Fi genre movies generally have strong grossing and profit compared to other genres. Therefore, we can focus on these genres if we are aiming for large revenue and market capture.
 5. Horror and Mystery genre movies generally have very strong return of investment compared to other genres. Therefore, we can focus on these genres if we are aiming for high return of investment for our capitals invested.
 ## Repository Files Organization
+- presentation.pdf: the presentation slides for non-technical presentation.
 - main.ipynb: the main Jupyter Notebook containing the data exploration and analysis.
 - raw_data: folder containing the scraped movie raw data.
 - scrape_bom_movies.py: script to scrape from Box Office Mojo for movie basic information.
