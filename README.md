@@ -19,16 +19,21 @@ After analyzing the data from the various resources, the following conclusions a
 ## Conclusion and Recommendation
 The movie market is (at the start of 2020) a $25 billion dollar market. It's a big market.
 ![market](./images/market.PNG)
+
 There are a large number of players and a constantly changing market share. Therefore, it's market penetration is possible.
 ![brands](./images/brands.PNG)
+
 The total number of reviews of a movie has a moderate correlation with the grossing and return of investment of a movie. Therefore a survey or release of preview on social media or YouTube may be a good idea, and we can gauge public interest from the number of reviews or views.
 ![correlation](./images/correlation.PNG)
+
 Animation, Adventure, and Sci-Fi genre movies generally have strong grossing compared to other genres. Therefore, we can focus on these genres if we are aiming for large revenue and market capture.
 ![worldwide_rank](./images/worldwide_rank.PNG)
 ![worldwide](./images/worldwide.PNG)
+
 Animation, Adventure, and Sci-Fi genre movies generally have strong profit compared to other genres. Therefore, we can focus on these genres if we are aiming for large revenue and market capture.
 ![profit_rank](./images/profit_rank.PNG)
 ![profit](./images/profit.PNG)
+
 Horror and Mystery genre movies generally have very strong return of investment compared to other genres. Therefore, we can focus on these genres if we are aiming for high return of investment for our capitals invested. Note that Horror and Mystery in itself also have a couple of extreme outlier for return of investment such that the scatter plot data only include 3 sigma of ROI so the plot would not be too out of proportion.
 ![ROI_rank](./images/ROI_rank.PNG)
 ![ROI](./images/ROI.PNG)
