@@ -40,8 +40,8 @@ Horror and Mystery genre movies generally have very strong return of investment 
 
 ## Future Work
 We know the market is large and there are chances to break in, the next thing we should do is to figure out how to best break in:
--Domain knowledge!
--Networking!
--Research who are the best writers, directors, actors, and other film making roles and how to recruit them or invest in new talents.
--Determine what’s the current best and future platform to release to.
--How to use the least amount of time and capital to capture and/or make new markets?
+- Domain knowledge!
+- Networking!
+- Research who are the best writers, directors, actors, and other film making roles and how to recruit them or invest in new talents.
+- Determine what’s the current best and future platform to release to.
+- How to use the least amount of time and capital to capture and/or make new markets?
